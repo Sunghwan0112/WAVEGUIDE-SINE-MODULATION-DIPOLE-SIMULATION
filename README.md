@@ -5,6 +5,7 @@ This GitHub repository contains the source code and documentation for an automat
 
 ## Features :sparkles:
 - **Automated Structural Modifications**: Leverage the Ansys Lumerical Python API to automatically adjust waveguide dimensions to meet precise specifications.
+![Alt text for your image](./images/Untitled2.png)
 - **Material and Design Specifications**:
   - Waveguide Core: Made from a material with a refractive index of 2.0.
   - Supporting Structure: SiO2 box with a refractive index of 1.44 to isolate the waveguide.

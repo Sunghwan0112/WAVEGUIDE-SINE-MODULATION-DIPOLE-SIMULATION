@@ -1,4 +1,3 @@
-
 # Ansys Waveguide Modulation with Python Automation :computer:
 
 ## Description :page_with_curl:
@@ -15,6 +14,17 @@ This GitHub repository contains the source code and documentation for an automat
   - **Grating Modulation**: Control over the waveguide’s modulation via variables like K_grating and x_span.
 - **Comparative Analysis**: Evaluate different grating shapes to ascertain the most efficient pattern in terms of optical diffraction efficiency.
 
+## Detailed Results :bar_chart:
+### Ansys Simulation Results
+- **Grating Efficiency Analysis**: The sine wave grating consistently produces the highest peak, which aligns closely with theoretical expectations, demonstrating the best optical diffraction efficiency.
+- **Waveguide Length Consideration**: The analysis determined the minimum waveguide length required for effective light transmission, which enhances the setup's practical application in real-world scenarios.
+- **Scalability**: Successfully extended the 2D modeling equations to 3D to accommodate realistic scenarios and broader application contexts.
+
+### Dipole Simulation Results
+- **Model Validation**: The Dipole Simulation results matched perfectly with theoretical values, confirming the accuracy of the simulation models used.
+- **Efficiency Comparison**: Dipole Simulations demonstrated a similar trend in efficiency across varying grating shapes, with adjustments in dipole configuration slightly altering the output, highlighting the importance of precise mode selection.
+- **Operational Flexibility**: Unlike Ansys Simulation, Dipole Simulation does not depend heavily on mode selection, offering more robust and consistent results.
+
 ## Installation Instructions :gear:
 1. **Clone the Repository**: 
    ```bash
@@ -28,17 +38,8 @@ This GitHub repository contains the source code and documentation for an automat
    pip install -r requirements.txt
    ```
 
-## Usage :computer:
-- **Configuration**: Modify the `config.py` file to set up initial parameters such as waveguide dimensions, material properties, and simulation settings.
-- **Running Simulations**:
-   ```bash
-   python run_simulation.py
-   ```
-  This script initiates the simulation process, adjusting waveguide parameters and capturing the resulting data.
-- **Analyzing Results**: Use the provided analysis tools in `analysis_tools.py` to visualize and interpret the simulation data.
-
-
 ## Contact :mailbox_with_mail:
 - Sunghwan Baek - [your-email@example.com](mailto:your-email@example.com)
 - Project Link: [https://github.com/Sunghwan0112/Waveguide-Modulation-Project-ECE-M.S.](https://github.com/Sunghwan0112/Waveguide-Modulation-Project-ECE-M.S.)
+
 

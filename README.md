@@ -1,8 +1,7 @@
 # Ansys Waveguide Modulation with Python Automation :computer:
 
 ## Description :page_with_curl:
-This GitHub repository contains the source code and documentation for an automated simulation project using Ansys Lumerical software through Python. The project focuses on optimizing waveguide structures for light propagation using various grating shapes like sine, triangle, square, and sawtooth. The key objective is to fine-tune the waveguide's acoustic wavelength and modulation characteristics to improve optical diffraction efficiency.
-
+This GitHub repository hosts the source code and accompanying documentation for an advanced simulation project that leverages Ansys Lumerical software and Python. The project is dedicated to optimizing waveguide structures for efficient light propagation, employing sine wave grating techniques. It encompasses two primary components: automated Ansys simulations for precise structural adjustments and Python-based Dipole simulations for validating theoretical models.
 ## Features :sparkles:
 - **Automated Structural Modifications**: Leverage the Ansys Lumerical Python API to automatically adjust waveguide dimensions to meet precise specifications.
 ![Alt text for your image](./images/structure.png)

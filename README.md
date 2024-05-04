@@ -7,7 +7,7 @@ This GitHub repository contains the source code and documentation for an automat
 - **Automated Structural Modifications**: Leverage the Ansys Lumerical Python API to automatically adjust waveguide dimensions to meet precise specifications.
 ![Alt text for your image](./images/structure.png)
 - **Material and Design Specifications**:
-  - Waveguide Core: Made from a material with a refractive index of 2.0.
+  - Waveguide Core: The core material, featuring a refractive index of 2.0, is modulated with subtle sine wave variations.
   - Supporting Structure: SiO2 box with a refractive index of 1.44 to isolate the waveguide.
 - **Simulation Techniques**:
   - **Mode Injection**: Use of Port 2 to inject light modes with minimal refractive index leakage.

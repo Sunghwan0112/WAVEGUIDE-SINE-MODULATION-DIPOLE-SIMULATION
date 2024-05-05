@@ -47,7 +47,7 @@ This GitHub repository hosts the source code and accompanying documentation for 
    ```
 
 ## Contact :mailbox_with_mail:
-- Sunghwan Baek - [your-email@example.com](mailto:your-email@example.com)
+- Sunghwan Baek - [sunghwanbaek0112@gmail.com](mailto:sunghwanbaek0112@gmail.com)
 - Project Link: [https://github.com/Sunghwan0112/Waveguide-Modulation-Project-ECE-M.S.](https://github.com/Sunghwan0112/Waveguide-Modulation-Project-ECE-M.S.)
 
 

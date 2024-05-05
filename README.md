@@ -22,7 +22,7 @@ This GitHub repository hosts the source code and accompanying documentation for 
 ![Decay](./images/Decay.png)
 ### Dipole Simulation Results
 - **Model Validation**: The Dipole Simulation results matched perfectly with theoretical values, confirming the accuracy of the simulation models used.
-- ![Dipole_Simulation](./images/Dipole_Simulation.png)
+![Dipole_Simulation](./images/Dipole_Simulation.png)
 - **Efficiency Comparison**: Dipole Simulations demonstrated a similar trend in efficiency across varying grating shapes, with adjustments in dipole configuration slightly altering the output, highlighting the importance of precise mode selection.
 - **Scalability**: Successfully extended the 2D modeling equations to 3D to accommodate realistic scenarios and broader application contexts.
 ![Dipole_3D](./images/Dipole_3D.png)

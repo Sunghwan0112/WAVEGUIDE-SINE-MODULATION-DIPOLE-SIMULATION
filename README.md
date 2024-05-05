@@ -25,6 +25,7 @@ This GitHub repository hosts the source code and accompanying documentation for 
 - ![Dipole_Simulation](./images/Dipole_Simulation.png)
 - **Efficiency Comparison**: Dipole Simulations demonstrated a similar trend in efficiency across varying grating shapes, with adjustments in dipole configuration slightly altering the output, highlighting the importance of precise mode selection.
 - **Scalability**: Successfully extended the 2D modeling equations to 3D to accommodate realistic scenarios and broader application contexts.
+![Dipole_3D](./images/Dipole_3D.png)
 - **Operational Flexibility**: Unlike Ansys Simulation, Dipole Simulation does not depend heavily on mode selection, offering more robust and consistent results.
 
 ## Installation Instructions :gear:

@@ -2,7 +2,8 @@
 
 ## Description :page_with_curl:
 This GitHub repository hosts the source code and accompanying documentation for an advanced simulation project that leverages Ansys Lumerical software and Python. The project is dedicated to optimizing waveguide structures for efficient light propagation, employing sine wave grating techniques. It encompasses two primary components: automated Ansys simulations for precise structural adjustments and Python-based Dipole simulations for validating theoretical models.
-The private link: [https://github.com/Sunghwan0112/Ansys_Project.git](https://github.com/Sunghwan0112/Waveguide-Modulation-Project-ECE-M.S.)
+
+The private link has the codes: [https://github.com/Sunghwan0112/Ansys_Project.git](https://github.com/Sunghwan0112/Waveguide-Modulation-Project-ECE-M.S.)
 ## Features :sparkles:
 - **Automated Structural Modifications**: Leverage the Ansys Lumerical Python API to automatically adjust waveguide dimensions to meet precise specifications.
   

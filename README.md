@@ -17,7 +17,7 @@ This GitHub repository hosts the source code and accompanying documentation for 
 ## Detailed Results :bar_chart:
 ### Ansys Simulation Results
 - **Grating Efficiency Analysis**: The sine wave grating consistently produces the highest peak, which aligns closely with theoretical expectations, demonstrating the best optical diffraction efficiency.
-![Ansys_Simulation](./images/Ansys_Simulation.png)
+![Ansys_Simulation](./images/Ansys_Data.png)
 - **Waveguide Length Consideration**: The analysis determined the minimum waveguide length required for effective light transmission, which enhances the setup's practical application in real-world scenarios.
 ![Decay](./images/Decay.png)
 ### Dipole Simulation Results

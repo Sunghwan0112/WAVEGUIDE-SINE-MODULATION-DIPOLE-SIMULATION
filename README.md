@@ -4,7 +4,7 @@
 This GitHub repository hosts the source code and accompanying documentation for an advanced simulation project that leverages Ansys Lumerical software and Python. The project is dedicated to optimizing waveguide structures for efficient light propagation, employing sine wave grating techniques. It encompasses two primary components: automated Ansys simulations for precise structural adjustments and Python-based Dipole simulations for validating theoretical models.
 ## Features :sparkles:
 - **Automated Structural Modifications**: Leverage the Ansys Lumerical Python API to automatically adjust waveguide dimensions to meet precise specifications.
-![Alt text for your image](./images/structure.png)
+![structure](./images/structure.png)
 - **Material and Design Specifications**:
   - Waveguide Core: The core material, featuring a refractive index of 2.0, is modulated with subtle sine wave variations.
   - Supporting Structure: SiO2 box with a refractive index of 1.44 to isolate the waveguide.
@@ -17,7 +17,9 @@ This GitHub repository hosts the source code and accompanying documentation for 
 ## Detailed Results :bar_chart:
 ### Ansys Simulation Results
 - **Grating Efficiency Analysis**: The sine wave grating consistently produces the highest peak, which aligns closely with theoretical expectations, demonstrating the best optical diffraction efficiency.
+![Ansys Simulation](./images/Ansys Simulation.png)
 - **Waveguide Length Consideration**: The analysis determined the minimum waveguide length required for effective light transmission, which enhances the setup's practical application in real-world scenarios.
+- ![Decay](./images/Decay.png)
 - **Scalability**: Successfully extended the 2D modeling equations to 3D to accommodate realistic scenarios and broader application contexts.
 
 ### Dipole Simulation Results

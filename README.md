@@ -40,10 +40,6 @@ This GitHub repository hosts the source code and accompanying documentation for 
 2. **Setup Environment**:
    - Ensure Python 3.8+ is installed.
    - Install Ansys Lumerical software and configure it to integrate with Python.
-3. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Contact :mailbox_with_mail:
 - Sunghwan Baek - [sunghwanbaek0112@gmail.com](mailto:sunghwanbaek0112@gmail.com)

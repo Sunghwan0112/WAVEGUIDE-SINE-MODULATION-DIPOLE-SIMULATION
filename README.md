@@ -13,7 +13,6 @@ This GitHub repository hosts the source code and accompanying documentation for 
   - **Mode Injection**: Use of Port 2 to inject light modes with minimal refractive index leakage.
   - **Data Acquisition**: Capture E-field data at Port 1 using ANSYS Lumerical FDTD for comprehensive analysis.
   - **Grating Modulation**: Control over the waveguide’s modulation via variables like K_grating and x_span.
-- **Comparative Analysis**: Evaluate different grating shapes to ascertain the most efficient pattern in terms of optical diffraction efficiency.
 
 ## Detailed Results :bar_chart:
 ### Ansys Simulation Results

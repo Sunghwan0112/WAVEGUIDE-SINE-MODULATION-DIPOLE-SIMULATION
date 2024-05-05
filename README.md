@@ -20,11 +20,11 @@ This GitHub repository hosts the source code and accompanying documentation for 
 ![Ansys_Simulation](./images/Ansys_Simulation.png)
 - **Waveguide Length Consideration**: The analysis determined the minimum waveguide length required for effective light transmission, which enhances the setup's practical application in real-world scenarios.
 ![Decay](./images/Decay.png)
-- **Scalability**: Successfully extended the 2D modeling equations to 3D to accommodate realistic scenarios and broader application contexts.
-![3D_Ansys](./images/3D_Ansys.png)
 ### Dipole Simulation Results
 - **Model Validation**: The Dipole Simulation results matched perfectly with theoretical values, confirming the accuracy of the simulation models used.
+- ![Dipole_Simulation](./images/Dipole_Simulation.png)
 - **Efficiency Comparison**: Dipole Simulations demonstrated a similar trend in efficiency across varying grating shapes, with adjustments in dipole configuration slightly altering the output, highlighting the importance of precise mode selection.
+- **Scalability**: Successfully extended the 2D modeling equations to 3D to accommodate realistic scenarios and broader application contexts.
 - **Operational Flexibility**: Unlike Ansys Simulation, Dipole Simulation does not depend heavily on mode selection, offering more robust and consistent results.
 
 ## Installation Instructions :gear:

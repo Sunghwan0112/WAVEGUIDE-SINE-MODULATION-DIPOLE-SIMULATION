@@ -21,6 +21,7 @@ This GitHub repository hosts the source code and accompanying documentation for 
   
 ![Ansys_Simulation](./images/Ansys_Data.png)
 - **Waveguide Length Consideration**: The analysis determined the minimum waveguide length required for effective light transmission, which enhances the setup's practical application in real-world scenarios.
+  
 ![Decay](./images/Decay.png)
 ### Dipole Simulation Results
 - **Model Validation**: The Dipole Simulation results matched perfectly with theoretical values, confirming the accuracy of the simulation models used.
